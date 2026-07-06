@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🧹 Laptop Cleaner PRO
+# LAPTOP CLEANER PRO
 
 **A fast, safe, all-in-one Windows batch tool** to clean junk, free up disk space, and repair system files — no installation required.
 
